@@ -1,0 +1,3 @@
+[submodule "ubademy-back"]
+	path = ubademy-back
+	url = git@github.com:Luciana123/ubademy-back.git
