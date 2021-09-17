@@ -4,3 +4,6 @@
 [submodule "ubademy-front"]
 	path = ubademy-front
 	url = git@github.com:recheconea/ubademy-front.git
+[submodule "ubademy-mobile"]
+	path = ubademy-mobile
+	url = git@github.com:recheconea/ubademy-mobile.git
