@@ -7,3 +7,6 @@
 [submodule "ubademy-mobile"]
 	path = ubademy-mobile
 	url = git@github.com:recheconea/ubademy-mobile.git
+[submodule "ubademy-back-py"]
+	path = ubademy-back-py
+	url = git@github.com:agscontini/ubademy-back-py.git
